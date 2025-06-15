@@ -64,7 +64,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1")
     
     // Google ML Kit
-    implementation("com.google.android.gms:play-services-speech:19.0.0")
+    implementation("com.google.android.gms:play-services-speech:18.0.1")
     implementation("com.google.mlkit:language-id:17.0.4")
     
     // Audio Processing
